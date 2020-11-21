@@ -1,0 +1,19 @@
+{
+  "name": "tiny-anchor",
+  "version": "0.0.1",
+  "description": "This project is designed to provide navigation tools to minimize footprint (browser history).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anchor",
+    "tag",
+    "navigation",
+    "history",
+    "safe",
+    "safety"
+  ],
+  "author": "Bob Fornal",
+  "license": "MIT"
+}
