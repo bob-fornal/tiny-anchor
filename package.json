@@ -1,8 +1,16 @@
 {
   "name": "tiny-anchor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This project is designed to provide navigation tools to minimize footprint (browser history).",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/bob-fornal/tiny-anchor/issues",
+    "email": "bob@fornal.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bob-fornal/tiny-anchor"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
