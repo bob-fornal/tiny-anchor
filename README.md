@@ -17,8 +17,8 @@ This project is designed to provide navigation tools to minimize footprint (brow
 
 ### Demonstration
 
-* Code [HERE]()
-* Live [HERE]()
+* Code [HERE](https://github.com/bob-fornal/tiny-anchor-demo)
+* Live [HERE](https://tiny-anchor.web.app/)
 
 ### Using the Files
 
